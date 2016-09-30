@@ -1,0 +1,43 @@
+.head{
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+
+
+}
+
+.navbar{ 
+   
+   color: red;
+   
+ }
+
+.container{
+
+	background-color: #F8F8F8;
+}
+
+#content{
+
+	font-style: italic;
+	background-color:#F8F8F8 ;
+	text-decoration: underline;
+	font-size: x-large;
+}
+
+.footbar{
+	text-align: center;
+	color: white;
+	background-color: black;
+	
+}
+
+.photo{
+	opacity: 0.5;
+}
+.photo:hover {
+    opacity: 1.0;
+
+}
+
